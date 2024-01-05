@@ -74,7 +74,7 @@ RingBuffer* initializeBuffer(uint8_t size);
  * @brief   free allocated memory for buffer
  * @param   Handler   Pointer to struct of Buffer Data Control
  *****************************************************************************************/
-void freeBuffer(RingBuffer* ring);
+void freeBuffer(RingBuffer* Handler);
 
 /*****************************************************************************************
  * @brief   Add item to buffer
