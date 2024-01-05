@@ -1,13 +1,13 @@
 /******************************************************************************
  * File: ringBuffer                       @file   ringBuffer.h
- * Author: KnightMC                       @author KnightMC
+ * Author: KnightMCC                      @author KnightMCC
  * Comments: file of ringBuffer module.   @brief  Header file of ringBuffer module.
  * Revision history: 04/01/2024
  ******************************************************************************
  * @brief        Interface declaration of ringBuffer module.
  * @attention    See implementation file for information about this module.
  *
- * Copyright (c) 2024 KnightMC
+ * Copyright (c) 2024 KnightMCC
  *
  * Permission is hereby granted, free of charge, to any person obtaining a copy
  * of this software and associated documentation files (the "Software"), to deal
